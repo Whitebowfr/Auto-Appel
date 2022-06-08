@@ -1,4 +1,4 @@
-# Saucisse 
+# Auto-Appel
 ## I - Utilisation 
 ### Requirements : 
 - Node >= 14.0.0 
